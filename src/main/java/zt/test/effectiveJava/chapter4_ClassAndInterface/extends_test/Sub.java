@@ -2,6 +2,9 @@ package zt.test.effectiveJava.chapter4_ClassAndInterface.extends_test;
 
 import java.time.Instant;
 
+/**
+ * @author zangtao
+ */
 public final class Sub extends Super {
     private final Instant instant;
 
