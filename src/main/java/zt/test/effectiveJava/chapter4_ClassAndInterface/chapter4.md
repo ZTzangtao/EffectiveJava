@@ -8,3 +8,5 @@
 //potential security hole!
 public static final Things[] VALUES = { ... };
 ```
+
+# 第29条:优先考虑泛型
